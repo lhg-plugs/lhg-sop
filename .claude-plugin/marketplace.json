@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"SOP沉淀专家：流程访谈提纲→SOP文档生成→检查清单→版本管理","name":"lhg-sop","source":"./"}]}
